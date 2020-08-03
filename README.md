@@ -44,10 +44,4 @@ project.config.json-----------------package.json
 
 **截图：**
 
-![01首页列表](C:\Users\hp\Desktop\微信小程序\bilibili\screenshot\01首页列表.jpg)
-
-
-
-
-
-![02视频详情页](C:\Users\hp\Desktop\微信小程序\bilibili\screenshot\02视频详情页.jpg)
+![01首页列表](https://github.com/lqw-doll/bilibili/edit/master/screenshot/01首页列表.jpg)
